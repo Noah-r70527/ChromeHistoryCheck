@@ -14,6 +14,5 @@ python ChromeHistoryCheck.py -f History (File name supplied as the -f argument)
 
 python ChromeHistoryCheck.py (No arguments)
 
-Enter the input file: 
-
-History
+_Enter the input file:_
+_History_
