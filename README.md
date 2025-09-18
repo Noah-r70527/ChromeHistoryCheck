@@ -7,12 +7,13 @@ You have two options when running:
 - Input the file after being prompted if the -f argument is not present.
 
 
-Example:
+**Example:**
+-----------------------------
 
-python ChromeHistoryCheck.py -f History (File name supplied as the -f argument)
+**python ChromeHistoryCheck.py -f History** (File name supplied as the -f argument)
 
 
-python ChromeHistoryCheck.py (No arguments)
+**python ChromeHistoryCheck.py** (No arguments)
 
 _Enter the input file:_
 _History_
